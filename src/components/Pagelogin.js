@@ -1,11 +1,13 @@
 import React from 'react'
 
-function Details2() {
+
+function Pagelogin() {
     return (
         <div>
-            service2
+          
         </div>
+       
     )
 }
 
-export default Details2
+export default Pagelogin
